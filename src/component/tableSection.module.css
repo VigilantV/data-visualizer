@@ -1,0 +1,25 @@
+.table_section {
+  padding: 3vh 2vw;
+}
+
+.title {
+  font-size: 1.4vw;
+  margin-bottom: 1.2vh;
+}
+
+.table_header_row {
+  display: flex;
+  justify-content: space-between;
+  width: 25vw;
+  font-size: 1.2vw;
+  padding: 0.5vh 0.3vw;
+  background-color: rgb(200, 200, 200);
+}
+
+.table_data_row {
+  display: flex;
+  justify-content: space-between;
+  width: 25vw;
+  font-size: 1.2vw;
+  padding: 1vh 0.3vw;
+}

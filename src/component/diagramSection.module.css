@@ -1,0 +1,9 @@
+.diagram_section {
+  display: flex;
+  flex-direction: column;
+}
+
+.img {
+  width: 45vw;
+  margin: 4vh 0 3.5vh 1vw;
+}

@@ -3,8 +3,9 @@ Its a template file which uses dummy data (hard coded in some .js files) and dis
 It supports some specific formats of data like text, number, date, price, image, etc.\
 You can change the data to see your desirable content.
 
-date of completion: 10/28/2022
-commands to use: 
-<pre> npm i 
-npm start</pre>
+Date of completion: 10/28/2022
+
+Commands to use: 
+<pre> npm i
+ npm start</pre>
 
